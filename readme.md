@@ -6,7 +6,7 @@ Please do not make an actual donation, in other words don't make your test click
 
 We are interested in seeing your approach to writing well-structured, extensbile and maintainable UI tests.
 
-Timebox this to 3 hours, or even less, if you are happy with the approach you have been able to illustrate.
+Try to timebox this to 3 hours if you can. However, it's important that you are happy with the approach you have been able to illustrate.
 
 Please DO NOT fork this project on Github, as we want to be sure candidates' test submissions are original.
 
